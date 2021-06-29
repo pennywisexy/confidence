@@ -1,0 +1,10 @@
+.zero {
+  background-image: url(zero.jpg);
+  background-size: 30px;
+  width: 100vw;
+  height: 90vh;
+}
+
+html {
+  transition: all 1s;
+}
