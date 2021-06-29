@@ -10,6 +10,6 @@ function onCheck() {
 
 function home() {
   this.root.innerHTML = `
-    <a class="btn btn-danger" onclick="onCheck()">Check Level of Confidence</a>
+    <a class="btn btn-danger" onclick="onCheck()">Check Level of Trust</a>
   `
 }
